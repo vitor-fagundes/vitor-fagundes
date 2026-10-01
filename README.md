@@ -1,16 +1,50 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Vitor Fagundes 👋</h1>
 
-<!--
-**vitor-fagundes/vitor-fagundes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <strong>Information Systems · Cybersecurity · Networks · Software Engineering</strong>
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  Security Engineering • SIEM • IIoT • Distributed Systems
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About me
+
+- 🔐 Working with **Cybersecurity, SIEM and Detection Engineering**
+- 🔬 Researching **IIoT security, network simulation and ML systems**
+- 🌐 Interested in **Security, Computer Networks and Distributed Systems**
+- 💻 Working mainly with **Python, C++, C#, Kotlin, SQL and Linux**
+
+---
+
+## Current focus
+
+- Detection Engineering and Security Monitoring
+- Network Security and IIoT
+- NS-3 and 6LoWPAN simulation
+- SIP honeypot and malicious traffic analysis
+- LLM inference and multi-model serving
+
+---
+
+## Tech stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,kotlin,java,js,ts" />
+</p>
+
+### Systems & Infrastructure
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,bash" />
+</p>
+
+### Data & Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,dotnet" />
+</p>
