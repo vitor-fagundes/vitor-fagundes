@@ -15,7 +15,6 @@
 - 🔐 Working with **Cybersecurity, SIEM and Detection Engineering**
 - 🔬 Researching **IIoT security, network simulation and ML systems**
 - 🌐 Interested in **Security, Computer Networks and Distributed Systems**
-- 💻 Working mainly with **Python, C++, C#, Kotlin, SQL and Linux**
 
 ---
 
